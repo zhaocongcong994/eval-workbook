@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用评测集工作簿"
+  short_description: "生成四工作表联动 XLSX 评测集"
+  default_prompt: "用 $eval-workbook 把已确认的评测目标卡和评测集整理为四工作表、公式联动的 XLSX。"
